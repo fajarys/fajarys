@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **laravel,vue,react**
+- 💬 Ask me about **laravel,PHP,react**
 
 - 📫 How to reach me **fajaryuliawan3@gmail.com**
 
