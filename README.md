@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fajar Yuliawan</h1>
+<h2 align="center">Hi 👋, I'm Fajar Yuliawan</h2>
 
 <h3 align="center">Junior Backend Developer Enthusiast</h3>
 
