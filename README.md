@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Development & Network Development**
 
-- 💬 Ask me about **laravel,PHP,react, mikrotik,linux**.
+- 💬 Ask me about **laravel,PHP,react,python,mikrotik,linux**.
 
 - 📫 How to reach me **fajaryuliawan3@gmail.com**
 
