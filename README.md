@@ -1,9 +1,9 @@
 <h2 align="center">Hi 👋, I'm Fajar Yuliawan</h2>
-<h4 align="center"> Junior Backend Developer Enthusiast</h4>
+<h4 align="center"> Junior Network Development Enthusiast</h4>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development & Network Development**
 
-- 💬 Ask me about **laravel,PHP,react**.
+- 💬 Ask me about **laravel,PHP,react, mikrotik,linux**.
 
 - 📫 How to reach me **fajaryuliawan3@gmail.com**
 
