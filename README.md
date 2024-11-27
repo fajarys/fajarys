@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Fajar Yuliawan</h2>
-<h4 align="center"> Junior Network Adminstrator</h4>
+<h4 align="center"> Junior Network Enggineer</h4>
 
 - 🌱 I’m currently learning **Network Adminstrator**
 
